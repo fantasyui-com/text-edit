@@ -1,6 +1,6 @@
 {
   "name": "text-edit",
-  "version": "1.2.0",
+  "version": "1.3.0",
   "description": "Electron based text editor inspired by Stickies",
   "main": "main.js",
   "scripts": {
